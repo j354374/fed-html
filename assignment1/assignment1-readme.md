@@ -7,9 +7,9 @@ checklist:
 - [ ] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [X] DOCTYPE
 - [x] html
-- [ ] head
+- [X ] head
 - [ ] title
-- [ ] body
+- [X ] body
 - [ ] h1
 - [ ] h2
 - [ ] h3
