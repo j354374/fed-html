@@ -27,10 +27,6 @@ checklist:
 - [ ] footer
 
 
-
-
-DOCTYPE•html•head•title•body•h1, h2, h3•p  •div, span•ul, li, ol,•img•header•section•article•nav•aside•footer
-
 Inital Layout:
 
 
