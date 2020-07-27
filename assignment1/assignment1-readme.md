@@ -53,6 +53,9 @@ Inital Layout:
 </html>
 ```
 
+
+Wireframe Layout:
+
 ```
 <!doctype html>
 <html lang="en">
