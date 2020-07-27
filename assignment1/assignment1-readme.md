@@ -94,7 +94,20 @@ TOC
   </ul>
 </nav>  
 ```
-### Adding tables
+### Adding a side bar
+
+```
+<div class="sidebar">
+      <h3 class="title--big">Lorem ipsum</h3></div>
+        <div class="x_content">
+          <h4>Lorem ipsum</h4>
+          <p>Insert paragraph text</p>
+         <h5>Another heading here.</h5>
+         <p>More paragraph text here, there and everywhere!</p>
+         <h5>TAFE gradudates get jobs!</h5>
+         <p>It's true! TAFE gradudates are more likely to get a job than those that dropped out of their course.</p>
+</div>
+```
 
 references
 https://www.w3schools.com/bootstrap/bootstrap_navbar.asp
