@@ -10,6 +10,7 @@ checklist:
 - [x]  head
 - [ ] title
 - [x] body
+- [ ] main  
 - [ ] h1
 - [ ] h2
 - [ ] h3
@@ -19,13 +20,14 @@ checklist:
 - [ ] ul
 - [ ] li
 - [ ] img
-- [ ] header
+- [ ] header - height 200px 
 - [ ] section
 - [ ] article
 - [ ] nav
 - [ ] aside
-- [ ] footer
-
+- [ ] footer - height 150px
+- [ ] clear float class
+- [ ] outer - 1020px max
 
 Inital Layout:
 
