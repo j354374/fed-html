@@ -2,7 +2,7 @@
 TOC
 
 
-checklist:
+### checklist:
 
 - [ ] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [X] DOCTYPE
@@ -29,7 +29,7 @@ checklist:
 - [ ] clear float class
 - [ ] outer - 1020px max
 
-Inital Layout:
+### Inital Layout:
 
 
 ```
@@ -54,7 +54,7 @@ Inital Layout:
 ```
 
 
-Wireframe Layout:
+### Wireframe Layout:
 
 ```
 <!doctype html>
