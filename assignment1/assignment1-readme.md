@@ -5,7 +5,7 @@ TOC
 checklist:
 
 - [ ] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [ ] DOCTYPE
+- [X] DOCTYPE
 - [x] html
 - [ ] head
 - [ ] title
@@ -22,7 +22,7 @@ checklist:
 - [ ] header
 - [ ] section
 - [ ] article
-- [ ] nag
+- [ ] nav
 - [ ] aside
 - [ ] footer
 
