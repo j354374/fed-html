@@ -53,6 +53,39 @@ TOC
 </html>
 ```
 
+```
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+<link href="css/style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+	<div id="wrapper">
+	</div>	
+<header><h1>this is the heading</h1>
+</header>
+<nav>
+ <p>This is the menu.</p>	
+</nav>
+<main>
+<p>This is the content.</p>	
+</main>
+<footer>
+<p>this is the footer</p>	
+</footer>	
+	
+
+		
+</div> 
+</body>
+</html>
+
+```
+
+
 
 ### Wireframe Layout:
 
