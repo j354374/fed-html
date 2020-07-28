@@ -145,3 +145,5 @@ TOC
 
 references
 https://www.w3schools.com/bootstrap/bootstrap_navbar.asp
+
+https://www.w3schools.com/cssref/css3_pr_resize.asp
