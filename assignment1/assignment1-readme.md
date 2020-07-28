@@ -88,7 +88,7 @@ TOC
 
 
 
-### Wireframe Layout:
+### Wireframe Layout (to be replaced):
 
 ```
 <!doctype html>
