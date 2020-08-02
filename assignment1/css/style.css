@@ -24,7 +24,7 @@ header {
  width: 98%;
  height: 180px;
  background-color: #FF0004;
- background-image: url("images/furryheader.png"); 
+ background-image: url("../images/furryheader.png"); 
  float: left;
  margin: 1% 1% 1% 1%; 
 }
@@ -33,7 +33,7 @@ nav {
 width: 98%;
 height: 70px;
 background-color: #ccc;
-background-image: url("images/navbg.png");  
+background-image: url("../images/navbg.png");  
 float: left;
 margin: 1% 1% 1% 1%;   
 }
