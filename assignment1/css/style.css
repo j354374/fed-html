@@ -113,7 +113,7 @@ aside  {
    margin: 0% 0% 0% 0%;
 }
 
-ul {
+.nav-ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -121,11 +121,11 @@ ul {
   background-color: #333333;
 }
 
-li {
+.nav-li {
   float: left;
 }
 
-li a {
+.nav-li a {
   display: block;
   color: white;
   text-align: center;
@@ -133,6 +133,6 @@ li a {
   text-decoration: none;
 }
 
-li a:hover {
+.nav-li a:hover {
   background-color: #111111;
 }
