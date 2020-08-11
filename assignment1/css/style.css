@@ -9,7 +9,9 @@ html {
 }
 
 body {
-	background-color: white;
+  background-image: url("../images/bg.png");
+  background-repeat: repeat;
+  background-color: white;
 }
 
 #wrapper {
