@@ -126,6 +126,7 @@ aside  {
 
 .nav-li {
   float: left;
+  list-style-type: none;	
   
 }
 
