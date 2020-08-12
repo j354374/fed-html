@@ -3,7 +3,7 @@ Student name: Christopher Caston
 
 Student id: j354374
 
-Front-End Scripting Assignment 1.
+Front-End HTML Assignment 1.
 
 ### checklist:
 
