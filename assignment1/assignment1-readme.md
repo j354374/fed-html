@@ -1,4 +1,4 @@
-## readme
+### readme
 Student name: Christopher Caston
 student id: j354374
 
@@ -75,7 +75,7 @@ Front-End Scripting Assignment 1.
 
 
 
-Image sources:
+### Image sources:
 
 "furry-berries" by
 Casey Bisson.
