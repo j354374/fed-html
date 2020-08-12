@@ -11,13 +11,13 @@ html {
 body {
   background-image: url("../images/bg2.png");
   background-repeat: repeat;
-  background-color: white;
+  background-color: #ffffff;
 }
 
 #wrapper {
 max-width: 1020px;
 min-height: 1135px;	
-background-color: yellow;	
+background-color: #ff0000;	
 margin: 0 auto;
 #margin: 1% 1% 1% 1%;  
 }
@@ -53,7 +53,7 @@ main {
 footer {
 	width: 98%;
 	   height: 150px;
-	   background-color: darkblue;
+	   background-color: #ff0066;
 	   float: left;
      margin: 1% 1% 1% 1%; 
 }
@@ -63,7 +63,7 @@ footer {
 article {
 	    width: 50%;
 	    height: 485px;
-	    background: violet;
+	    background: #ffebcc;
 	    margin: 0% 0% 0% 0%;
 	    float: left;
 	    #resize: both;
@@ -74,7 +74,7 @@ article {
 
    width: 50%;
 	 height: 57%;
-	 background: violet;
+	 background: #ffd699;
 	 margin: 0% 0% 0% 0%;
 	 float: left;
 	 #resize: both;
@@ -84,7 +84,7 @@ article {
 section {
 	    width: 67%;
 	    height: 605px;
-	    background: black;
+	    background: #001a33;
 	    margin: -1% 0% 0% 0%;
 	    float: inherit;
 	    #resize: both;
@@ -128,7 +128,7 @@ aside  {
   float: left;
   list-style-type: none;	
   font-size: 20px;
-  background-color: lightpink;
+  background-color: #ffe6e6;
   padding-left: 0px;
   padding-right: 125px;	
   margin: -1% 2% 0% -1%;	
@@ -143,5 +143,5 @@ aside  {
 }
 
 .nav-li a:hover {
-  background-color: white;
+  background-color: #ffffff;
 }
