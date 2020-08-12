@@ -14,7 +14,7 @@ body {
 #wrapper {
 	max-width: 1020px;
 	min-height: 1135px;
-	background-color: #ff0000;
+	background-color: #4d95ff;
 	margin: 0 auto;
 	#margin: 1% 1% 1% 1%;
 }
@@ -46,7 +46,7 @@ main {
 footer {
 	width: 98%;
 	height: 150px;
-	background-color: #ff0066;
+	background-color: #a399ff;
 	float: left;
 	margin: 1% 1% 1% 1%;
 }
@@ -60,21 +60,21 @@ article {
 .articlerightcolumn {
 	width: 50%;
 	height: 57%;
-	background: #ffd699;
+	background: #ffc266;
 	margin: 0% 0% 0% 0%;
 	float: left;
 }
 section {
 	width: 67%;
 	height: 605px;
-	background: #ffdf99;
+	background: #ffd699;
 	margin: -1% 0% 0% 0%;
 	float: inherit;
 }
 aside {
 	width: 33%;
 	height: 100%;
-	background: #64569E;
+	background: #ffb74d;
 	float: left;
 	margin: -1% 1% 0% -1%;
 }
@@ -88,7 +88,7 @@ aside {
 .small-aside {
 	width: 50%;
 	height: 140px;
-	background-color: #64569E;
+	background-color: #ffd699;
 	float: left;
 	margin: 0% 0% 0% 0%;
 }
