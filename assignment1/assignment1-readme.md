@@ -29,7 +29,7 @@ TOC
 - [X] clear float class
 - [X] outer - 1020px max
 
-### Initial Layout:
+### HTML Initial Layout:
 
 
 
