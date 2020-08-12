@@ -65,6 +65,13 @@ TOC
 
 ```
 
+HTML 5 validation:
+
+![htmlv.png]()
+
+CSS validation:
+![cssv.png]()
+
 
 
 Images sources:
