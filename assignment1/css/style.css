@@ -1,4 +1,4 @@
-charset "utf-8";
+@charset "utf-8";
 /* CSS Document */
 html {
 	font-family: Verdana, "sans-serif";
@@ -16,7 +16,6 @@ body {
 	min-height: 1135px;
 	background-color: #4d95ff;
 	margin: 0 auto;
-	#margin: 1% 1% 1% 1%;
 }
 header {
 	width: 98%;
@@ -53,7 +52,7 @@ footer {
 article {
 	width: 50%;
 	height: 485px;
-	background: #ffd699;
+	background: #ffad34;
 	margin: 0% 0% 0% 0%;
 	float: left;
 }
@@ -64,6 +63,11 @@ article {
 	margin: 0% 0% 0% 0%;
 	float: left;
 }
+
+.articleleftcolumn {
+ background: #ffcc81;
+}
+
 section {
 	width: 67%;
 	height: 605px;
@@ -122,3 +126,22 @@ aside {
 .clearfix {
 	overflow: auto;
 }
+
+.danger {
+  color: red;
+}
+
+.serious {
+  color: red;
+  font-weight: bold;
+}
+
+.bio-image {
+  float: right;
+}
+
+.invisble-heading
+{
+display: none;   
+}
+
