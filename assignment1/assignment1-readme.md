@@ -66,10 +66,10 @@ TOC
 ```
 
 HTML 5 validation:
-![htmlv.png]()
+![readme_files\html5.png](HTML validation)
 
 CSS validation:
-![cssv.png]()
+![readme_files\cssv.png](CSS validation)
 
 
 
