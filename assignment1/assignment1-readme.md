@@ -69,7 +69,15 @@ TOC
 
 Images source:
 
-https://www.flickr.com/photos/maisonbisson/514809431/in/photostream/
-
 "furry-berries" by
 Casey Bisson.
+
+https://www.flickr.com/photos/maisonbisson/514809431/in/photostream/
+
+
+
+"Biological hazard" by
+George Hodan.
+
+https://www.publicdomainpictures.net/en/view-image.php?image=55611&picture=biohazard-sign
+
