@@ -1,5 +1,5 @@
-#readme
-TOC
+##readme
+
 
 
 ### checklist:
@@ -73,7 +73,7 @@ TOC
 
 
 
-Images sources:
+Image sources:
 
 "furry-berries" by
 Casey Bisson.
