@@ -4,56 +4,35 @@ TOC
 
 ### checklist:
 
-- [ ] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [X] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [X] DOCTYPE
-- [x] html
-- [x]  head
-- [ ] title
-- [x] body
-- [x] main  
-- [ ] h1
-- [ ] h2
-- [ ] h3
-- [ ] p
-- [ ] div
-- [ ] span
-- [ ] ul
-- [ ] li
-- [ ] img
-- [ ] header - height 200px 
-- [ ] section
-- [ ] article
-- [ ] nav
-- [ ] aside
-- [ ] footer - height 150px
-- [ ] clear float class
-- [ ] outer - 1020px max
+- [X] html
+- [X]  head
+- [X] title
+- [X] body
+- [X] main  
+- [X] h1
+- [X] h2
+- [X] h3
+- [X] p
+- [X] div
+- [X] span
+- [X] ul
+- [X] li
+- [X] img
+- [X] header - height 200px 
+- [X] section
+- [X] article
+- [X] nav
+- [X] aside
+- [X] footer - height 150px
+- [X] clear float class
+- [X] outer - 1020px max
 
 ### Initial Layout:
 
 
-```
-<!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>news</title>
-<link href="css/style.css" rel="stylesheet" type="text/css">
-</head>
-<body>
-<header></header>
-<nav></nav>
-<main>
-</main>
-  
-<footer>  
-</footer>  
-</body>
 
-</html>
-```
-
-### Layout from class
 
 ```
 <!doctype html>
@@ -88,62 +67,8 @@ TOC
 
 
 
-### Wireframe Layout (to be replaced):
+Images source:
 
-```
-<!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>news</title>
-<link href="css/style.css" rel="stylesheet" type="text/css">
-</head>
-<body>
-<header>Affluent Bilby Classifieds</header>
-<nav>-Home- -Blog- -Projects- -About- -Open Source-</nav>
-<main>
-<aside> </aside> 
-  <section>
-    <div></div><article></article><aside></aside>
-  </section>  
-    
-</main>
-  
-<footer>  
-</footer>  
-</body>
+https://www.flickr.com/photos/maisonbisson/514809431/in/photostream/
 
-</html>
-```
 
-### Adding a navigation bar
-
-```
-<nav class="navbar navbar-inverse">
-  <ul class="nav navbar-nav">
-    <li><a href="#">Home</a></li>
-    <li><a href="#">Projects</a></li>
-    <li><a href="#">About</a></li>
-    <li><a href="#">Open-Source</a></li>
-  </ul>
-</nav>  
-```
-### Adding a side bar
-
-```
-<div class="sidebar">
-      <h3 class="title--big">Lorem ipsum</h3></div>
-        <div class="x_content">
-          <h4>Lorem ipsum</h4>
-          <p>Insert paragraph text</p>
-         <h5>Another heading here.</h5>
-         <p>More paragraph text here, there and everywhere!</p>
-         <h5>TAFE gradudates get jobs!</h5>
-         <p>It's true! TAFE gradudates are more likely to get a job than those that dropped out of their course.</p>
-</div>
-```
-
-references
-https://www.w3schools.com/bootstrap/bootstrap_navbar.asp
-
-https://www.w3schools.com/cssref/css3_pr_resize.asp
