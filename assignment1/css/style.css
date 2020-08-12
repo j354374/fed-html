@@ -145,3 +145,7 @@ aside  {
 .nav-li a:hover {
   background-color: #ffffff;
 }
+
+.clearfix {
+  overflow: auto;
+}
