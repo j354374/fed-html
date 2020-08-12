@@ -67,7 +67,7 @@ TOC
 
 
 
-Images source:
+Images sources:
 
 "furry-berries" by
 Casey Bisson.
