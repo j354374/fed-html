@@ -87,3 +87,4 @@ George Hodan.
 
 https://www.publicdomainpictures.net/en/view-image.php?image=55611&picture=biohazard-sign
 
+Background was created by taking a digital photo of a pin-up board and modifying it with photoshop and gimp.
