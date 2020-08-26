@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+table th {
+font-size: large;
+background: green;
+color: red;
+font: 18px Monospace;
+}
+
+table tfoot {
+font-size: large;
+background: pink;
+color: red;
+font: 18px Monospace;
+}
+
