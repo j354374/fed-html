@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+span:hover {
+font-size: large;
+color: red;
+font: 18px Monospace;
+}
+
+li:nth-child( odd ) {
+    color: red;  
+}
+
+li:nth-child( even ) {
+    color: blue;  
+}
+
+
+li:hover:nth-child( even ) {
+    background-color: pink;  
+	color: yellow;
+}
