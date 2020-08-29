@@ -120,7 +120,7 @@ nav ul {
 	padding: 0;
 	overflow: hidden;
 	color: black;
-	#background-color: #333333;
+	background-color: #333333;
 }
 nav li {
 	float: left;
