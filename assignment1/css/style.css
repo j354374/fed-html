@@ -126,10 +126,10 @@ nav li {
 	float: left;
 	list-style-type: none;
 	font-size: 20px;
-	#background-color: #ffe6e6;
+	background-color: #ffe6e6;
 	padding-left: 0px;
 	padding-right: 25px;
-	margin: -1% 2% 0% -1%;
+	margin: -1% 14% 0% -1%;
 }
 
 nav li a {
