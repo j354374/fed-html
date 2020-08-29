@@ -62,7 +62,7 @@ article {
 	height: 57%;
 	background: #ffc266;
 	margin: 0% -1% 0% 1%;
-  padding: 0% 1% 0% 1%;
+        padding: 0% 1% 0% 1%;
 	float: left;
 }
 
@@ -83,7 +83,7 @@ aside {
 	height: 100%;
 	background: #ffb74d;
 	float: left;
-  padding: 0% 1% 0% 1%;
+        padding: 0% 1% 0% 1%;
 	margin: -1% 1% 0% -1%;
 }
 .section-header {
@@ -92,7 +92,7 @@ aside {
 	background-color: #ffd699;
 	float: right;
 	margin: 0% -1% 0% 0%;
-  padding: 0% 0% 0% 1%;
+        padding: 0% 0% 0% 1%;
 }
 .small-aside {
 	width: 44%;
@@ -100,7 +100,7 @@ aside {
 	background-color: #ffd699;
 	float: left;
 	margin: 0% 0% 0% 4%;
-  padding: 0% 0% 0% 0%;
+        padding: 0% 0% 0% 0%;
 }
 
 nav {
@@ -120,7 +120,7 @@ nav ul {
 	padding: 0;
 	overflow: hidden;
 	color: black;
-	background-color: #333333;
+	#background-color: #333333;
 }
 nav li {
 	float: left;
