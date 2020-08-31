@@ -111,6 +111,8 @@ nav ul {
 	overflow: hidden;
 	color: black;
 	#background-color: #333333;
+	display: flex;
+        justify-content: space-around;
 }
 nav li {
 	float: left;
