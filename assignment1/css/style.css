@@ -25,14 +25,7 @@ header {
 	float: left;
 	margin: 1% 1% 1% 1%;
 }
-nav {
-	width: 98%;
-	height: 70px;
-	background-color: #ccc;
-	background-image: url("../images/navbg.png");
-	float: left;
-	margin: 1% 1% 1% 1%;
-}
+
 main {
 	width: 94%;
 	height: 605px;
