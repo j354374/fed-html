@@ -10,12 +10,13 @@ body {
 	background-image: url("../images/bg3.png");
 	background-repeat: repeat;
 	background-color: #ffffff;
-}
+  }
 #wrapper {
 	max-width: 1020px;
-	min-height: 1135px;
-	background-color: #4d95ff;
-	margin: 0 auto;
+	mid-width: 500px;
+  min-height: 1135px;
+  background-color: #4d95ff;
+  margin: 0 auto;
 }
 header {
 	width: 98%;
@@ -56,8 +57,7 @@ article {
 	background: #ffc266;
 	margin: 0% -1% 0% 1%;
   padding: 0% 1% 0% 1%;
-	float: left;
-}
+	}
 
 .articleleftcolumn {
  background: #ffcc81;
@@ -95,7 +95,6 @@ aside {
 	margin:  0% -1% 0% 1%;
   padding: 0% 1% 0% 2%;
 }
-
 nav {
 	width: 98%;
 	height: 70px;
@@ -104,9 +103,6 @@ nav {
 	float: left;
 	margin: 1% 1% 1% 1%;
 }
-
-
-
 nav ul {
 	list-style-type: none;
 	margin: 0;
@@ -136,8 +132,10 @@ nav li a:hover {
 	background-color: #ff4d4d;
 }
 
-.clearfix {
-	overflow: auto;
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
 }
 
 .danger {
