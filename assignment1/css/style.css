@@ -119,7 +119,7 @@ nav li {
 	list-style-type: none;
 	font-size: 20px;
 	background-color: #ffe6e6;
-	padding-left: calc(50% + 6px);
+	padding-left: calc(2% + 2px);
 	#padding-right: 25px;
 	padding-right: calc(1% + 12px);
 	#display: flex;
