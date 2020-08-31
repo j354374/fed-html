@@ -13,7 +13,7 @@ body {
   }
 #wrapper {
 	max-width: 1020px;
-	mid-width: 600px;
+	min-width: 600px;
         min-height: 1135px;
         background-color: #4d95ff;
         margin: 0 auto;
