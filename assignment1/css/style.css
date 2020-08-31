@@ -119,6 +119,7 @@ nav li {
 	background-color: #ffe6e6;
 	padding-left: 0px;
 	padding-right: 25px;
+	display: flex;
 	margin: -1% 14% 0% -1%;
 }
 
@@ -163,8 +164,4 @@ text-align: center;
 
 h3 {
 text-align: center;    
-}
-
-.left-text {
-text-align: left;  
 }
