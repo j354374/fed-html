@@ -2,7 +2,9 @@
 /* CSS Document */
 html {
 	font-family: Verdana, "sans-serif";
-	font-size: 16px;
+	/*font-size: calc(0.4em + 0.5vw);*/
+  /*font-size: 0.79vw;*/
+  font-size: 0.8vw;
 	margin: 0;
 	padding: 0;
 }
@@ -10,18 +12,17 @@ body {
 	background-image: url("../images/bg3.png");
 	background-repeat: repeat;
 	background-color: #ffffff;
-  }
+}
 #wrapper {
-	max-width: 1020px;
-	min-width: 600px;
-        min-height: 1135px;
-        background-color: #4d95ff;
-        margin: 0 auto;
+	/*max-width: 1020px;*/
+  width: 60%;
+	height: 125.31vh;
+	background-color: #4d95ff;
+	margin: 0 auto;
 }
 header {
 	width: 98%;
-	height: 180px;
-	min-width: 400px;
+	height: 19.71vh;
 	background-color: #FF0004;
 	background-image: url("../images/furryheader.png");
 	float: left;
@@ -30,7 +31,7 @@ header {
 
 main {
 	width: 94%;
-	height: 605px;
+	height: 66.26vh;
 	background-color: #1A7F7D;
 	float: left;
 	padding: 2%;
@@ -39,22 +40,22 @@ main {
 }
 footer {
 	width: 97%;
-	height: 150px;
+	height: 16.42vh;
 	background-color: #a399ff;
 	float: left;
 	margin: 1% 1% 1% 1%;
-        padding: 0% 0% 0% 1%;
+  padding: 0% 0% 0% 1%;
 }
 article {
 	width: 50%;
-	height: 485px;
+	height: 51.48vh;
 	background: #ffad34;
 	margin: 0% 0% 0% 0%;
 	float: left;
 }
 .articlerightcolumn {
 	width: 46%;
-	height: 57%;
+	height: 36.12vh;
 	background: #ffc266;
 	margin: 0% -1% 0% 1%;
   padding: 0% 1% 0% 1%;
@@ -62,12 +63,12 @@ article {
 
 .articleleftcolumn {
  background: #ffcc81;
- padding: 0% 1% 0% 1%; 
+ padding: 0% 1% 0% 1%;
 }
 
 section {
 	width: 65%;
-	height: 605px;
+	height: 66.26vh;
 	background: #ffd699;
 	margin: -1% 0% 0% 0%;
 	float: inherit;
@@ -77,12 +78,12 @@ aside {
 	height: 100%;
 	background: #ffb74d;
 	float: left;
-        padding: 0% 1% 0% 1%;
+  padding: 0% 1% 0% 1%;
 	margin: -1% 1% 0% -1%;
 }
 .section-header {
 	width: 100%;
-	height: 120px;
+	height: 13.14vh;
 	background-color: #ffd699;
 	float: right;
 	margin: 0% -1% 0% 0%;
@@ -90,7 +91,7 @@ aside {
 }
 .small-aside {
 	width: 45%;
-	height: 140px;
+	height: 15.33vh;
 	background-color: #ffd699;
 	float: left;
 	margin:  0% -1% 0% 1%;
@@ -98,7 +99,7 @@ aside {
 }
 nav {
 	width: 98%;
-	height: 70px;
+	height: 7.66vh;
 	background-color: #ccc;
 	background-image: url("../images/navbg.png");
 	float: left;
@@ -110,18 +111,15 @@ nav ul {
 	padding: 0;
 	overflow: hidden;
 	color: black;
-	#background-color: #333333;
-	display: flex;
-        justify-content: space-around;
+	/*background-color: #333333;*/
 }
 nav li {
 	float: left;
 	list-style-type: none;
-	font-size: 20px;
+	font-size: 1rem;
 	background-color: #ffe6e6;
-	padding-left: 12px;
-	padding-right: 25px;
-	padding-right: calc(1% + 12px);
+	padding-left: 0rem;
+	padding-right: 1rem;
 	margin: -1% 14% 0% -1%;
 }
 
@@ -129,7 +127,7 @@ nav li a {
 	display: block;
 	color: black;
 	text-align: center;
-	padding: 16px;
+	padding: 1rem;
 	text-decoration: none;
 }
 nav li a:hover {
@@ -157,13 +155,20 @@ nav li a:hover {
 
 .invisble-heading
 {
-display: none;   
+display: none;
 }
 
 h2 {
-text-align: center;  
+text-align: center;
 }
 
 h3 {
-text-align: center;    
+text-align: center;
+}
+
+@media(max-width:700px) {
+
+  #wrapper {
+    min-width: 100%;
+  }
 }
