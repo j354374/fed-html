@@ -28,12 +28,9 @@ header {
 	float: left;
 	margin: 1% 1% 1% 1%;
 }
-
 header h1 {
 	display: none;
-	}
-
-
+}
 main {
 	width: 94%;
 	height: 67.26vh;
@@ -59,13 +56,11 @@ article {
 	float: left;
 	font-size: 90%;
 }
-
 article h3 {
-display: none;
+	display: none;
 }
-
 article span {
-color: red;
+	color: red;
 }
 .articlerightcolumn {
 	width: 46%;
@@ -80,20 +75,19 @@ color: red;
 }
 section {
 	width: 65%;
-	height: 66.26vh;
+	height: 69.26vh;
 	background: #ffd699;
 	margin: -1% 0% 0% 0%;
 	float: inherit;
 }
 section,article ol,ul {
-text-align: left;
-object-fit: contain;
+	text-align: left;
+	object-fit: contain;
 }
-
 section img{
-width: 25%;
-height: auto;
-float: right;
+	width: 25%;
+	height: auto;
+	float: right;
 }
 aside {
 	width: 33%;
@@ -102,17 +96,17 @@ aside {
 	float: left;
 	padding: 0% 1% 0% 1%;
 	margin: -1% 1% 0% -1%;
-  font-size: 90%;
+	font-size: 90%;
 }
 aside span {
-color: red;
-font-weight: bold;
+	color: red;
+	font-weight: bold;
 }
 aside img {
-		width: 100%;
-		height: auto;
+	width: 100%;
+	height: auto;
 }
-  .section-header {
+.section-header {
 	width: 100%;
 	height: 13.14vh;
 	background-color: #ffd699;
@@ -167,11 +161,6 @@ nav li a:hover {
 	clear: both;
 	display: table;
 }
-.danger {
-	color: red;
-}
-
-
 .invisble-heading{
 	display: none;
 }
@@ -217,23 +206,18 @@ h3 {
 	#wrapper {
 		min-width: 100%;
 	}
-
-article,nav,footer,aside {
-	font-size: 160%;
-}
-
+	article,nav,footer,aside {
+		font-size: 160%;
+	}
 }
 @media(max-width:500px) {
 	#wrapper {
 		min-width: 100%;
 	}
-
 	article,nav,footer,aside {
 		font-size: 165%;
 	}
-
 }
-
 @media(max-width:400px) {
 	#wrapper {
 		min-width: 100%;
@@ -241,5 +225,4 @@ article,nav,footer,aside {
 	article,nav,footer,aside {
 		font-size: 170%;
 	}
-
 }
