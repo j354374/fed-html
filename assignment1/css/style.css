@@ -209,3 +209,12 @@ h3 {
 		font-size-adjust: 1.1;
 	}
 }
+
+@media(max-width:400px) {
+	#wrapper {
+		min-width: 100%;
+	}
+	html{
+		font-size-adjust: 1.3;
+	}
+}
