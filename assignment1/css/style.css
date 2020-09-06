@@ -80,6 +80,9 @@ section {
 	margin: -1% 0% 0% 0%;
 	float: inherit;
 }
+section,article ol,ul {
+float: left;
+}
 aside {
 	width: 33%;
 	height: 100%;
@@ -132,7 +135,7 @@ nav li {
 nav li a {
 	display: block;
 	color: black;
-	text-align: center;
+	text-align: left;
 	padding: 1rem;
 	text-decoration: none;
 }
