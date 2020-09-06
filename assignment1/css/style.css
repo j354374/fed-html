@@ -176,7 +176,7 @@ h3 {
 		min-width: 95%;
 	}
 	html{
-		font-size-adjust: 0.85;
+		font-size-adjust: 0.83;
 	}
 }
 @media(max-width:800px) {
@@ -192,7 +192,7 @@ h3 {
 		min-width: 100%;
 	}
 	html{
-		font-size-adjust: 0.92;
+		font-size-adjust: 0.8;
 	}
 }
 @media(max-width:600px) {
@@ -200,7 +200,7 @@ h3 {
 		min-width: 100%;
 	}
 	html{
-		font-size-adjust: 0.93;
+		font-size-adjust: 0.85;
 	}
 }
 @media(max-width:500px) {
@@ -217,6 +217,6 @@ h3 {
 		min-width: 100%;
 	}
 	html{
-		font-size-adjust: 1.05;
+		font-size-adjust: 0.96;
 	}
 }*/
