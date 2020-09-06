@@ -65,7 +65,7 @@ thanks
 
 ### Reponsive website
 
-In order to prepare and refine skills needed for the next assignemtn an effort to make the website responsive was attempted with the following:
+In order to prepare and refine skills needed for the next assignment an effort to make the website responsive was attempted with the following:
 
 * viewport device-width initial-scale set to 1.0
 * @media in css adjust the wrapper and font size for different sized screens
