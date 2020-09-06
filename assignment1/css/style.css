@@ -28,18 +28,15 @@ header {
 	float: left;
 	margin: 1% 1% 1% 1%;
 }
-.img-bio {
-	width: 25%;
-	height: auto;
-	float: right;
-}
-.img-sml {
-	width: 100%;
-	height: auto;
-}
+
+header h1 {
+	display: none;
+	}
+
+
 main {
 	width: 94%;
-	height: 66.26vh;
+	height: 67.26vh;
 	background-color: #1A7F7D;
 	float: left;
 	padding: 2%;
@@ -56,15 +53,23 @@ footer {
 }
 article {
 	width: 50%;
-	height: 51.48vh;
+	height: 54.48vh;
 	background: #ffad34;
 	margin: 0% 0% 0% 0%;
 	float: left;
 	font-size: 90%;
 }
+
+article h3 {
+display: none;
+}
+
+article span {
+color: red;
+}
 .articlerightcolumn {
 	width: 46%;
-	height: 36.12vh;
+	height: 39vh;
 	background: #ffc266;
 	margin: 0% -1% 0% 1%;
 	padding: 0% 1% 0% 1%;
@@ -84,16 +89,30 @@ section,article ol,ul {
 text-align: left;
 object-fit: contain;
 }
+
+section img{
+width: 25%;
+height: auto;
+float: right;
+}
 aside {
 	width: 33%;
-	height: 100%;
+	height: 69vh;
 	background: #ffb74d;
 	float: left;
 	padding: 0% 1% 0% 1%;
 	margin: -1% 1% 0% -1%;
   font-size: 90%;
 }
-.section-header {
+aside span {
+color: red;
+font-weight: bold;
+}
+aside img {
+		width: 100%;
+		height: auto;
+}
+  .section-header {
 	width: 100%;
 	height: 13.14vh;
 	background-color: #ffd699;
@@ -151,10 +170,7 @@ nav li a:hover {
 .danger {
 	color: red;
 }
-.serious {
-	color: red;
-	font-weight: bold;
-}
+
 
 .invisble-heading{
 	display: none;
