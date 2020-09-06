@@ -82,6 +82,7 @@ section {
 }
 section,article ol,ul {
 text-align: left;
+object-fit: contain;
 }
 aside {
 	width: 33%;
