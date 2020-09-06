@@ -81,7 +81,7 @@ section {
 	float: inherit;
 }
 section,article ol,ul {
-float: left;
+text-align: left;
 }
 aside {
 	width: 33%;
@@ -135,7 +135,7 @@ nav li {
 nav li a {
 	display: block;
 	color: black;
-	text-align: left;
+	text-align: center;
 	padding: 1rem;
 	text-decoration: none;
 }
