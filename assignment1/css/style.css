@@ -182,7 +182,7 @@ h3 {
 		min-width: 95%;
 	}
 	article,nav,footer,aside {
-		font-size: 140%;
+		font-size: 145%;
 	}
 }
 @media(max-width:700px) {
@@ -209,7 +209,7 @@ article,nav,footer,aside {
 	}
 
 	article,nav,footer,aside {
-		font-size: 165%;
+		font-size: 160%;
 	}
 
 }
@@ -219,7 +219,7 @@ article,nav,footer,aside {
 		min-width: 100%;
 	}
 	article,nav,footer,aside {
-		font-size: 170%;
+		font-size: 165%;
 	}
 
 }
