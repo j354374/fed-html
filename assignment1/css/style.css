@@ -2,7 +2,7 @@
 /* CSS Document */
 html {
 	font-family: Verdana, "sans-serif";
-	font-size: 1vw;
+	font-size: 0.95vw;
 	text-rendering: optimizeLegibility;
 	margin: 0;
 	padding: 0;
@@ -151,9 +151,7 @@ nav li a:hover {
 	color: red;
 	font-weight: bold;
 }
-.bio-image {
-	float: right;
-}
+
 .invisble-heading{
 	display: none;
 }
@@ -192,7 +190,7 @@ h3 {
 		min-width: 100%;
 	}
 	html{
-		font-size-adjust: 0.8;
+		font-size-adjust: 0.85;
 	}
 }
 @media(max-width:600px) {
@@ -200,7 +198,7 @@ h3 {
 		min-width: 100%;
 	}
 	html{
-		font-size-adjust: 0.85;
+		font-size-adjust: 0.87;
 	}
 }
 @media(max-width:500px) {
