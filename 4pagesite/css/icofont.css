@@ -1,19 +1,19 @@
-/*! 
-* @package IcoFont 
-* @version 1.0.1 
-* @author IcoFont https://icofont.com 
-* @copyright Copyright (c) 2015 - 2020 IcoFont 
+/*!
+* @package IcoFont
+* @version 1.0.1
+* @author IcoFont https://icofont.com
+* @copyright Copyright (c) 2015 - 2020 IcoFont
 * @license - https://icofont.com/license/
 */
 
 @font-face
 {
- 
+
   font-family: "IcoFont";
 font-weight: normal;
 font-style: "Regular";
-src: url("./fonts/icofont.woff2") format("woff2"),
-url("./fonts/icofont.woff") format("woff");
+src: url("../fonts/icofont.woff2") format("woff2"),
+url("../fonts/icofont.woff") format("woff");
 }
 
 [class^="icofont-"], [class*=" icofont-"]
@@ -61,6 +61,36 @@ url("./fonts/icofont.woff") format("woff");
 .icofont-home:before
 {
   content: "\ef47";
+}
+
+.icofont-power-zone:before
+{
+  content: "\e9ac";
+}
+
+.icofont-file-pdf:before
+{
+  content: "\eb1e";
+}
+
+.icofont-web:before
+{
+  content: "\f028";
+}
+
+.icofont-diamond:before
+{
+  content: "\ef01";
+}
+
+.icofont-file-spreadsheet:before
+{
+  content: "\eb27";
+}
+
+.icofont-database:before
+{
+  content: "\eeff";
 }
 
 .icofont-xs
@@ -309,4 +339,3 @@ url("./fonts/icofont.woff") format("woff");
   position: static;
   width: auto;
 }
-	
