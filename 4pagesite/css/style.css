@@ -196,7 +196,8 @@ background-attachment: fixed;
 background-size: cover;
 font-size: 1.5em;
 text-align: center;
-padding: 1%;	
+padding: 1.5%;	
+vertical-align: bottom;	
 }
 
 table {
