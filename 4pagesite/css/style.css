@@ -132,7 +132,7 @@ width: 98%;
 margin: 0.5%;
 }
 
-.data-section,.about-section,.report-section {
+.data-section,.data-section-websites,.about-section,.report-section {
   height: 60vh;
   width: 98%;
   overflow: scroll;
