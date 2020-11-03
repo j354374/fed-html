@@ -228,6 +228,11 @@ table th {
   text-transform: uppercase;
 }
 
+.data-source-websites th {
+letter-spacing: .025em;
+}
+
+
 textarea {
 caret-color:  red;
 -webkit-box-sizing: border-box;
