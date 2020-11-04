@@ -38,12 +38,16 @@ however, it created an error of "undefined" at the top of the HTML file when att
 The HTML code has been kept reasonbly clean and tidy during production so I have decided just to proceed to validation.
 
 ## validation
-index.html:
 
+about.html:
 ![about](https://raw.githubusercontent.com/j354374/fed-html/master/project-task1-4page-site/readmefiles/about-html-validation.png)
+contact.html:
 ![contact](https://raw.githubusercontent.com/j354374/fed-html/master/project-task1-4page-site/readmefiles/contact-html-validation.png)
+data.html:
 ![data](https://raw.githubusercontent.com/j354374/fed-html/master/project-task1-4page-site/readmefiles/data-html-validation.png)
+reports.html:
 ![reports](https://raw.githubusercontent.com/j354374/fed-html/master/project-task1-4page-site/readmefiles/reports-html-validation.png)
+index.html:
 ![index](https://raw.githubusercontent.com/j354374/fed-html/master/project-task1-4page-site/readmefiles/index-html-validation.png)
 
 
