@@ -37,9 +37,9 @@ however, it created an error of "undefined" at the top of the HTML file when att
 
 The HTML code has been kept reasonbly clean and tidy during production so I have decided just to proceed to validation.
 
-## validation.
+## validation
 index.html:
-[!/readmefiles/index-html-validation.png]
+![index.html](/readmefiles/index-html-validation.png)
 
 ## references
 
