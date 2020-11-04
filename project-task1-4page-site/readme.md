@@ -39,7 +39,7 @@ The HTML code has been kept reasonbly clean and tidy during production so I have
 
 ## validation
 index.html:
-![index.html](/readmefiles/index-html-validation.png)
+![alt text](/readmefiles/index-html-validation.png)
 
 ## references
 
