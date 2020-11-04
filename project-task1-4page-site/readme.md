@@ -50,6 +50,8 @@ reports.html:
 index.html:
 ![index](https://raw.githubusercontent.com/j354374/fed-html/master/project-task1-4page-site/readmefiles/index-html-validation.png)
 
+![style](https://raw.githubusercontent.com/j354374/fed-html/master/project-task1-4page-site/readmefiles/style-css-validation.png)
+style-css-validation.png
 
 ## references
 
