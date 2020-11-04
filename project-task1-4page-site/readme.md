@@ -55,7 +55,7 @@ style-css-validation:
 
 [CSS lint](http://csslint.net) found 0 errors and 39 warnings.\ 
 [another html lint](http://www.htmllint.net/) came up with this:
-![lint](https://raw.githubusercontent.com/j354374/fed-html/master/project-task1-4page-site/readmefiles/htmllint.png)
+![lint](https://raw.githubusercontent.com/j354374/fed-html/master/project-task1-4page-site/readmefiles/indexlint.png)
 And it has been fixed.
 
 
