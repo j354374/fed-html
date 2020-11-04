@@ -72,4 +72,4 @@ skills.js script was written by mplungjan (online alias) in response to the foll
 please also see the codepen:
 https://codepen.io/j354374/pen/WNxyReJ
 
-HTML/CSS tables were written with reference to the following [codepen](https://codepen.io/AllThingsSmitty/pen/MyqmdM) by [Matt Smith)[https://codepen.io/AllThingsSmitty]).
+HTML/CSS tables were written with reference to the following [codepen](https://codepen.io/AllThingsSmitty/pen/MyqmdM) by [Matt Smith)(https://codepen.io/AllThingsSmitty).
