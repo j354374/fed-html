@@ -64,3 +64,5 @@ Icons provided by Icofont(https://icofont.com/). Background images from SVG Patt
 skills.js script was written by mplungjan (online alias) in response to the following [stackoverflow question](https://stackoverflow.com/questions/64661591/use-javascript-to-create-hyperlink-from-html5-details-summary-data-element/64661875#64661875)
 please also see the codepen:
 https://codepen.io/j354374/pen/WNxyReJ
+
+HTML/CSS tables were written with reference to the following [codepen](https://codepen.io/AllThingsSmitty/pen/MyqmdM) by [https://codepen.io/AllThingsSmitty](Matt Smith).
