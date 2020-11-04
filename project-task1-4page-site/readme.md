@@ -61,6 +61,6 @@ https://en.wikipedia.org/wiki/Underground_mining_(soft_rock)#/media/File:VKG_Oja
 
 Icons provided by Icofont(https://icofont.com/). Background images from SVG Patterns Gallery(https://philiprogers.com/svgpatterns/), SVG Backgrounds (https://www.svgbackgrounds.com/#flat-mountains) and the cloud header was from loading.io. (https://loading.io/background/m-clouds) 
 
-skills.js script was written by mplungjan in response to the following [stackoverflow question](https://stackoverflow.com/questions/64661591/use-javascript-to-create-hyperlink-from-html5-details-summary-data-element/64661875#64661875)
+skills.js script was written by mplungjan (online alias) in response to the following [stackoverflow question](https://stackoverflow.com/questions/64661591/use-javascript-to-create-hyperlink-from-html5-details-summary-data-element/64661875#64661875)
 please also see the codepen:
 https://codepen.io/j354374/pen/WNxyReJ
