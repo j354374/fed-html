@@ -53,6 +53,8 @@ style-css-validation:
 ![style](https://raw.githubusercontent.com/j354374/fed-html/master/project-task1-4page-site/readmefiles/style-css-validation.png)
 
 
+[CSS lint](http://csslint.net) found 0 errors and 39 warnings. 
+
 ## references
 
 An image from an underground mining vehicle was included from wikipedia. Please see:
