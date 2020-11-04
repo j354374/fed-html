@@ -53,9 +53,10 @@ style-css-validation:
 ![style](https://raw.githubusercontent.com/j354374/fed-html/master/project-task1-4page-site/readmefiles/style-css-validation.png)
 
 
-[CSS lint](http://csslint.net) found 0 errors and 39 warnings. 
+[CSS lint](http://csslint.net) found 0 errors and 39 warnings.\ 
 [another html lint](http://www.htmllint.net/) came up with this:
 ![lint](https://raw.githubusercontent.com/j354374/fed-html/master/project-task1-4page-site/readmefiles/htmllint.png)
+And it has been fixed.
 
 
 
