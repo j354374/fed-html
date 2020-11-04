@@ -39,7 +39,7 @@ The HTML code has been kept reasonbly clean and tidy during production so I have
 
 ## validation
 index.html:
-![alt text](/readmefiles/index-html-validation.png)
+![index](https://raw.githubusercontent.com/j354374/fed-html/master/project-task1-4page-site/readmefiles/index-html-validation.png)
 
 ## references
 
