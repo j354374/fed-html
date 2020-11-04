@@ -53,9 +53,12 @@ index.html:
 
 ## references
 
-An image from an underground mining vechile was included from wikipedia. Please see:
+An image from an underground mining vehicle was included from wikipedia. Please see:
 https://en.wikipedia.org/wiki/Underground_mining_(soft_rock)
 https://en.wikipedia.org/wiki/Underground_mining_(soft_rock)#/media/File:VKG_Ojamaa_kaevandus.jpg
 
 Icons provided by Icofont(https://icofont.com/). Background images from SVG Patterns Gallery(https://philiprogers.com/svgpatterns/), SVG Backgrounds (https://www.svgbackgrounds.com/#flat-mountains) and the cloud header was from loading.io. (https://loading.io/background/m-clouds) 
 
+skills.js script was written by mplungjan in reponse to the following [stackoverflow question](https://stackoverflow.com/questions/64661591/use-javascript-to-create-hyperlink-from-html5-details-summary-data-element/64661875#64661875)
+please also see the codepen:
+https://codepen.io/j354374/pen/WNxyReJ
