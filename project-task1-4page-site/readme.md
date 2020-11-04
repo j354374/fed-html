@@ -39,7 +39,13 @@ The HTML code has been kept reasonbly clean and tidy during production so I have
 
 ## validation
 index.html:
+
+![about](https://raw.githubusercontent.com/j354374/fed-html/master/project-task1-4page-site/readmefiles/about-html-validation.png)
+![contact](https://raw.githubusercontent.com/j354374/fed-html/master/project-task1-4page-site/readmefiles/contact-html-validation.png)
+![data](https://raw.githubusercontent.com/j354374/fed-html/master/project-task1-4page-site/readmefiles/data-html-validation.png)
+![reports](https://raw.githubusercontent.com/j354374/fed-html/master/project-task1-4page-site/readmefiles/reports-html-validation.png)
 ![index](https://raw.githubusercontent.com/j354374/fed-html/master/project-task1-4page-site/readmefiles/index-html-validation.png)
+
 
 ## references
 
